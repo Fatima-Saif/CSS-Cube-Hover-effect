@@ -1,62 +1,95 @@
-🎲 CSS Cube Hover Effect
+# 🎲 CSS Cube Hover Effect  
 
-A modern and visually appealing 3D Cube Hover Effect built using pure HTML & CSS. This project showcases how powerful CSS can be when creating interactive and animated UI elements—without using any JavaScript.
+<p align="center">
+  🧊 A stunning 3D cube hover animation using pure HTML & CSS  
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/No-JavaScript-success?style=for-the-badge">
+</p>
 
-✨ Features
-🎯 Pure HTML & CSS (No JavaScript)
-🧊 Realistic 3D cube animation
-⚡ Smooth hover transitions
-📱 Responsive design
-🎨 Easy to customize
+---
 
+## 🚀 Live Demo  
+🔗 https://your-username.github.io/css-cube-hover-effect/
 
-🛠️ Technologies Used
-HTML5
-CSS3 (Transforms, Transitions, Perspective)
-📚 What You’ll Learn
-How to create 3D objects using CSS
-Using transform, rotate, and translate
-Applying perspective for depth
-Creating smooth hover animations
-Structuring clean UI components
-📂 Project Structure
+---
+
+## 📸 Preview  
+
+<p align="center">
+  <img src="[./preview.png](https://github.com/Fatima-Saif/CSS-Cube-Hover-effect/blob/b4c36463f2fe874c7f1e2e7dcf077cfcec2e2d4b/image.png)" width="400"/>
+</p>
+
+---
+
+## ✨ Features  
+
+- 🎯 Pure HTML & CSS (No JavaScript)  
+- 🧊 Realistic 3D Cube Animation  
+- ⚡ Smooth Hover Effects  
+- 📱 Fully Responsive  
+- 🎨 Easy Customization  
+
+---
+
+## 🛠️ Tech Stack  
+
+| Technology | Usage |
+|------------|------|
+| HTML5 | Structure |
+| CSS3 | Styling & Animation |
+
+---
+
+## 📚 What You’ll Learn  
+
+✔️ CSS 3D Transforms  
+✔️ Perspective & Depth  
+✔️ Hover Animations  
+✔️ Clean UI Structuring  
+
+---
+
+## 📂 Project Structure  
+
+```bash
 CSS-Cube-Hover-Effect/
 │
 ├── index.html
 ├── style.css
 └── README.md
-⚙️ How to Use
-Clone the repository
-git clone https://github.com/Fatima-Saif/Css-Cube-Hover-effect.git
-Open the project folder
-Run index.html in your browser
+
 🎨 Customization
 
-You can easily customize:
+You can easily modify:
 
-Cube size
-Colors
-Animation speed
-Rotation angles
+🎲 Cube Size
+🎨 Colors
+⏱️ Animation Speed
+🔄 Rotation Angles
 
-Just edit the style.css file according to your needs.
+Edit the style.css file to personalize it.
 
 🌟 Use Cases
-Portfolio websites
-Landing pages
-UI animations
-Creative frontend projects
+💼 Portfolio Projects
+🌐 Landing Pages
+🎨 UI Experiments
+🚀 Frontend Practice
 🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork this repo and submit a pull request.
+Pull requests are welcome!
+Feel free to fork and improve this project.
 
 📄 License
 
-This project is open-source and available under the MIT License.
+📜 MIT License
 
 💡 Author
 
 Fatima Saif
-💻 Passionate about Web Development, UI/UX & Creative Coding
+💻 Web Developer | UI/UX Enthusiast | Creative Coder
+
+<p align="center"> ⭐ Don't forget to star this repo if you like it! </p> ```
