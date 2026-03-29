@@ -16,10 +16,10 @@
 
 ## 📸 Preview  
 
-<p align="center">
+
   ![image alt](https://github.com/Fatima-Saif/CSS-Cube-Hover-effect/blob/b4c36463f2fe874c7f1e2e7dcf077cfcec2e2d4b/image.png)
- width="400"
-</p>
+
+
 
 ---
 
