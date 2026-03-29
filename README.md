@@ -90,4 +90,4 @@ Feel free to fork and improve this project.
 Fatima Saif
 💻 Web Developer | UI/UX Enthusiast | Creative Coder
 
-<p align="center"> ⭐ Don't forget to star this repo if you like it! </p> ```
+ ⭐ Don't forget to star this repo if you like it! 
